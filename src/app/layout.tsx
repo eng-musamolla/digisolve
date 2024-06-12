@@ -10,8 +10,7 @@ import InputFrom from "./components/ui/SignupForm";
 
 export const metadata: Metadata = {
   title: "DigiSolve",
-  description:
-    "প্রিন্টার এবং ফটোকপিয়ার মেশিনের সকল সমস্যার নির্ভরযোগ্য সমাধান প্রিন্টার রিপেয়ার সার্ভিস। আমরা সকল ব্র্যান্ডের প্রিন্টার এবং ফটোকপিয়ার মেশিনের সার্ভিসিং এর জন্য ঢাকা শহরের যেকোনো প্রান্তে (বাড়ি বা অফিস) সেবা প্রদান করি।",
+  description: "DigiSolve discripton here",
 };
 
 export default function RootLayout({
