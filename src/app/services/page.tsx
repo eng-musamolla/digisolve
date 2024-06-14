@@ -4,7 +4,7 @@ import printerRepair from "/public/image/Design.png";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "digisolve | Services",
+  title: "DigiSolve | Services",
   description:
     "প্রিন্টার ও ফটোকপি মেশিনের সব সমস্যার নির্ভরযোগ্য সমাধান। সকল ব্র্যান্ডের সেবা দিয়ে থাকি। বাসা এবং অফিস সার্ভিস (ঢাকা সিটি)",
 };
