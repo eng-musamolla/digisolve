@@ -4,7 +4,7 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 
-import logo from "/public/LOGO512.png";
+import logo from "/public/digisolve-logoL.png";
 import { usePathname } from "next/navigation";
 
 const Navbar: React.FC = () => {
@@ -56,7 +56,7 @@ const Navbar: React.FC = () => {
   const pathname = usePathname();
   return (
     <div className="w-full bg-white flex justify-center py-2 shadow-lg fixed top-0 z-50  items-center">
-      <div className="container flex justify-around xl:justify-between items-center content-center">
+      <div className="container flex justify-around items-center content-center">
         <Link href="/">
           <Image
             className="hover:animate-rotate w-24   xl:w-24 2xl:w-28  "

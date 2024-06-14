@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /private/
 
-Sitemap: https://digisolve.com.bd/sitemap.xml
+Sitemap: https://digisolve.tech/sitemap.xml

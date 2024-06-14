@@ -10,7 +10,7 @@ import InputFrom from "./components/ui/SignupForm";
 
 export const metadata: Metadata = {
   title: "DigiSolve",
-  description: "DigiSolve discripton here",
+  description: "DigiSolve description here",
 };
 
 export default function RootLayout({
