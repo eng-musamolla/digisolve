@@ -23,7 +23,7 @@ export default function Services() {
           />
           <div>
             <h1 className="text-3xl sm:text-5xl  font-bold ">
-              Printer Repair Service!
+              Repair Service!
             </h1>
             <p className="py-6">
               প্রিন্টার এবং ফটোকপিয়ার মেশিনের সকল সমস্যার নির্ভরযোগ্য সমাধান
